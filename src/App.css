@@ -1,0 +1,29 @@
+.todoList{
+  background-color: blanchedalmond;
+  opacity: 0.8;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  margin-top: 80px;
+  width: 40%;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 20px;
+  box-shadow:  1px 1px 2px #b3b1af,
+              5px 5px  black,
+              10px 10px #73716d;
+            
+
+}
+
+h1{
+  color: #ed475b;
+  text-shadow: 3px 2px black;
+  font-size: 80px;
+}
+
+body{
+  background-image:
+  url("https://images.unsplash.com/photo-1458682625221-3a45f8a844c7?ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80");
+  background-size: cover;
+}
